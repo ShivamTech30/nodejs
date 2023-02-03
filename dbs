@@ -1,3 +1,9 @@
 
 sudo systemctl start mongod
 mongo
+
+HASH PASSWORD  and encrypt and decrypt
+in hash password "bcrypt(round 12)" is most strongest password
+
+authantication means you can login
+autharization means you have that permission
